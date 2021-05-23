@@ -1,5 +1,7 @@
 ## ParquetToCassandraJob
 
+## This is my change
+
 This job demonstrates the ability to load parquet data from HDFS 
 (can be underlying a hive table or just raw parquet files with the same schema) to a cassandra cluster.
 
